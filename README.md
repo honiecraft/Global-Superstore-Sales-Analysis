@@ -1,9 +1,11 @@
 # Global Superstore Sales Analysis [Power BI]
+The **Global Superstore Sales Analysis** repository showcases a comprehensive **Power BI dashboard** that provides valuable insights into **sales performance**. This project is designed to present key information and trends to stakeholders, enabling informed decision-making.
+
 ## About
-The **Global Superstore** dataset is a comprehensive dataset containing information about _sales and orders_ in a global superstore. 
-> **Requirements**:\
-> Senior manager wants to grasp information about the company's business situation to develop a **market expansion strategy** and decide on choosing strategic products.
-Create a dashboard to help stakeholders solve those needs.
+The **Global Superstore** dataset is a comprehensive dataset containing information about _sales and orders_ in a global superstore. \
+Senior manager wants to grasp information about the company's **business situation** to develop a **market expansion strategy** and decide on choosing **strategic products**.
+> **Objective**\
+> Building Dashboard to help stakeholders solve those needs.
 
 ## Data tables
 - **Orders**: table to store transaction information
